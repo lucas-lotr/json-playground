@@ -1,0 +1,96 @@
+{
+  "leads" : [ null, {
+    "email" : "guilhermefilidisjose@gmail.com",
+    "empresa" : "KPMG",
+    "nome" : "Guilherme Filidis José ",
+    "source" : "Contato direto",
+    "telefone" : "(11)954299828"
+  }, {
+    "email" : "vitortevess@gmail.com",
+    "empresa" : "UFPR",
+    "nome" : "vitor teves",
+    "source" : "Contato direto",
+    "telefone" : "(11)985565043"
+  }, {
+    "email" : "agodinhopl@gmail.com",
+    "empresa" : "MF Consultoria",
+    "nome" : "Alessandra Godinho",
+    "source" : "Evento no Facebook",
+    "telefone" : "(31)999633283"
+  }, {
+    "email" : "tayna.vf@hotmail.com",
+    "empresa" : "MF Consultoria",
+    "nome" : "Tayna Vicente",
+    "source" : "Evento no Facebook",
+    "telefone" : "(11)985770466"
+  }, {
+    "email" : "alandeservicos@gmail.com",
+    "empresa" : "Alande Serviços",
+    "nome" : "Débora Medeiros Lima",
+    "source" : "Contato direto",
+    "telefone" : "(11)094811292"
+  }, {
+    "email" : "teste@teste.com",
+    "empresa" : "teste",
+    "nome" : "teste teste",
+    "source" : "Evento no Facebook",
+    "telefone" : "(11)111111111"
+  }, {
+    "email" : "leao.gtr@gmail.com",
+    "empresa" : "GOGO",
+    "nome" : "guilherme T R",
+    "source" : "Evento no Facebook",
+    "telefone" : "(11)99466996"
+  }, {
+    "email" : "welingtonrios@hotmail.com",
+    "empresa" : "TeckZone Informática para Negócios",
+    "nome" : "Welington Carneiro Rios",
+    "source" : "Contato direto",
+    "telefone" : "(75)98806-8190"
+  }, {
+    "email" : "heitordosim@gmail.com",
+    "empresa" : "-",
+    "nome" : "HEITOR ANTONIO BRACAL DO SIM",
+    "source" : "Evento no Facebook",
+    "telefone" : "(11)946807408"
+  }, {
+    "email" : "gustavborst@hotmail.com",
+    "empresa" : "Sheva Investimentos",
+    "nome" : "Gustav de Alencar Borst",
+    "source" : "Contato direto",
+    "telefone" : "(11)992771770"
+  }, {
+    "email" : "acaugusti@gmail.com",
+    "empresa" : "Augustus Rulers",
+    "nome" : "Alexandre Caldeira Augusti",
+    "source" : "Contato direto",
+    "telefone" : "(11)983838537"
+  }, {
+    "email" : "carolin_santoro@yahoo.com.br",
+    "empresa" : "Empresa",
+    "nome" : "Carolin Santoro",
+    "source" : "E-Mail convite",
+    "telefone" : "(11)999063435"
+  }, {
+    "email" : "andre@nexoos.com.br",
+    "empresa" : "Nexoos",
+    "nome" : "André Felipe Suzano Massa",
+    "source" : "Contato direto",
+    "telefone" : "(19)982446092"
+  }, {
+    "email" : "leonardomarafiotti@hotmail.com",
+    "empresa" : "Goldman Sachs",
+    "nome" : "Leonardo Marafiotti",
+    "source" : "Contato direto",
+    "telefone" : "(11)99302-6643"
+  }, {
+    "email" : "epinheiromello@gmail.com",
+    "empresa" : "W1 Finance",
+    "nome" : "Eduardo Pinheiro de Mello",
+    "source" : "Contato direto",
+    "telefone" : "(11)99203-8596"
+  } ],
+  "meta" : {
+    "qtd" : 15
+  }
+}
