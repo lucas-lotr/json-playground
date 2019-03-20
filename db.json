@@ -1,22 +1,32 @@
 {
   "0": {
-    "titles": ["none"],
-    "values": ["0"]
+      "data: {
+      "titles": ["none"],
+      "values": ["0"]
+    }
   },
   "1": {
-    "titles": ["none", "a1", "b1", "c1"],
-    "values": ["0", "1", "2", "3"]
+    "data: {
+      "titles": ["none", "a1", "b1", "c1"],
+      "values": ["0", "1", "2", "3"]
+    }
   },
   "2": {
-    "titles": ["none", "a2", "b2", "c2"],
-    "values": ["0", "1", "2", "3"]
+    "data: {
+      "titles": ["none", "a2", "b2", "c2"],
+      "values": ["0", "1", "2", "3"]
+    }
   },
   "3": {
-    "titles": ["none", "a3", "b3", "c3"],
-    "values": ["0", "1", "2", "3"]
+    "data: {
+      "titles": ["none", "a3", "b3", "c3"],
+      "values": ["0", "1", "2", "3"]
+    }
   },
   "4": {
-    "titles": ["none", "a4", "b4", "c4"],
-    "values": ["0", "1", "2", "3"]
+    "data: {
+      "titles": ["none", "a4", "b4", "c4"],
+      "values": ["0", "1", "2", "3"]
+    }
   },
 }
